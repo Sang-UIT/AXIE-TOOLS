@@ -1,0 +1,5 @@
+﻿  Axie.cpp
+d:\1laptrinhchoduyen\axie\axie\axie.cpp(32): warning C4018: '<': signed/unsigned mismatch
+d:\1laptrinhchoduyen\axie\axie\axie.cpp(51): warning C4018: '<': signed/unsigned mismatch
+  Axie.vcxproj -> D:\1LAPTRINHCHODUYEN\Axie\Debug\Axie.exe
+  Axie.vcxproj -> D:\1LAPTRINHCHODUYEN\Axie\Debug\Axie.pdb (Full PDB)

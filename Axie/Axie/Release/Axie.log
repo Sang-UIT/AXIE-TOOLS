@@ -1,0 +1,10 @@
+﻿  Axie.cpp
+Axie.cpp(50): warning C4018: '<': signed/unsigned mismatch
+Axie.cpp(69): warning C4018: '<': signed/unsigned mismatch
+  Generating code
+  4 of 96 functions ( 4.2%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    8 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Axie.vcxproj -> D:\1LAPTRINHCHODUYEN\Axie\Release\Axie.exe
+  Axie.vcxproj -> D:\1LAPTRINHCHODUYEN\Axie\Release\Axie.pdb (Full PDB)
